@@ -8,3 +8,19 @@ git branch -u main
 git remote add origin <url>
 git push origin main 
 
+
+//fourth modified file2
+
+yum update -y
+yum install git -y
+git  --version
+
+
+yum install httpd -y
+yum update httpd -y
+yum remove httpd -y
+
+service httpd start
+service httpd stop
+service httpd restart
+
