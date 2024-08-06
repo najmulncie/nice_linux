@@ -1,4 +1,1 @@
-yum update -y
-yum install git -y
-git --version
-git config --list
+git config --global user.name "najmulncie"
