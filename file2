@@ -1,0 +1,10 @@
+git config --global user.email "najmulnice8092@gmail.com"
+git config --list
+
+git init
+git add .
+git commit -m "commit message"
+git branch -u main
+git remote add origin <url>
+git push origin main 
+
